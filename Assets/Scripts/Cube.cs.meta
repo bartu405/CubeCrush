@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 918deb039dccb314db6b80ac1635187d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - brokenVaseSprite: {fileID: 21300000, guid: 725557dc6aa8c434fa54130ac17d952e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

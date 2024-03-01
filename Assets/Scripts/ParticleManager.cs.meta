@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2d7c125bb1246e6418afa736d20b3f87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redParticlePrefab: {fileID: 8218688607502975440, guid: 9e9f397d237072f4282f3b011572968f, type: 3}
+  - greenParticlePrefab: {fileID: 2121478654951413908, guid: ffe324a8da970944abb89f543ed64ff3, type: 3}
+  - blueParticlePrefab: {fileID: 9174543985305757228, guid: 915ce00be2e61bb4bb7eb57ec3d33369, type: 3}
+  - yellowParticlePrefab: {fileID: 8218688607502975440, guid: f8f2a490f83ebe047affeab962695ef9, type: 3}
+  - vaseParticlePrefab_1: {fileID: 8218688607502975440, guid: 70b74673fb4a0ae4995d030e2d844d11, type: 3}
+  - vaseParticlePrefab_3: {fileID: 8218688607502975440, guid: 2f20ed245b5d4284db58227402ed8885, type: 3}
+  - stoneParticlePrefab_1: {fileID: 8218688607502975440, guid: 9b0afb4777f39294e983753c3a8531a1, type: 3}
+  - stoneParticlePrefab_2: {fileID: 8218688607502975440, guid: e16844c7e6936484c8f8c69938dbad8d, type: 3}
+  - stoneParticlePrefab_3: {fileID: 8218688607502975440, guid: 7c3ff9384f9a1a6499c9a39965b257bc, type: 3}
+  - boxParticlePrefab_1: {fileID: 8218688607502975440, guid: ff1688edbca39b64989e2f8254eda778, type: 3}
+  - boxParticlePrefab_2: {fileID: 8218688607502975440, guid: d7d1b5ef7cc3e0b4c81e8f36630ff358, type: 3}
+  - boxParticlePrefab_3: {fileID: 8218688607502975440, guid: c955f596c315dd945a2f5b39924c5871, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
